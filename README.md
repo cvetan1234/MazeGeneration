@@ -2,7 +2,7 @@
 
 ## Overview
 
-MazeGeneration is a Python project designed to create and visualize maze generation algorithms. This project includes various classes and scripts to generate and display mazes using different algorithms.
+MazeGeneration is a Python project designed to create and visualize maze generation algorithms. This project includes various classes and scripts to generate and display mazes using different algorithms. Itwas originally developed as part of the **Symbolic Artificial Intelligence 2** module at Ostbayerische Technische Hochschule Amberg-Weiden (OTH Amberg-Weiden).
 
 ## Structure
 
